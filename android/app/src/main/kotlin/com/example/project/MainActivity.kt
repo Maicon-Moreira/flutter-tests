@@ -1,4 +1,4 @@
-package com.maicon.flutter_tests
+package com.example.project
 
 import io.flutter.embedding.android.FlutterActivity
 
